@@ -1,6 +1,4 @@
-================================================================================
-                           32-BIT CPU EMULATOR
-================================================================================
+==================== 32-BIT CPU EMULATOR ====================
 
 A lightweight virtual machine implementation written in C (C99). This project 
 simulates a simplified stack-based processor architecture featuring a custom 
